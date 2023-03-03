@@ -1,4 +1,4 @@
-package com.example.airb;
+package com.example.airbb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

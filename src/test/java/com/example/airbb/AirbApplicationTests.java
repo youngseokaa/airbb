@@ -1,4 +1,4 @@
-package com.example.airb;
+package com.example.airbb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
